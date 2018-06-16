@@ -1,0 +1,33 @@
+body {
+ background-color: #c0c5ce; 
+}
+  
+#header {
+  background-color: #c0c5ce;
+}
+
+#pusheen {
+ background-color: #c0c5ce;
+}
+
+#container {
+	width: 1200;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#navigation {
+  width: 150px;
+  float: left;
+  background-color: white;
+}
+
+#text {
+  width: 900px;
+  float: right;
+  background-color: white;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-bottom: 100px;
+}
+
