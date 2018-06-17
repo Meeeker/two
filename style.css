@@ -21,7 +21,7 @@ body {
   float: left;
   background-color: white;
 }
-
+  
 #text {
   width: 900px;
   float: right;
@@ -31,3 +31,26 @@ body {
   margin-bottom: 100px;
 }
 
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: grey;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: grey;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: black;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: grey;
+}
