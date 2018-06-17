@@ -20,6 +20,7 @@ body {
   width: 150px;
   float: left;
   background-color: white;
+  text-shadow: 3px 2px #e0ebeb;
 }
   
 #text {
@@ -32,25 +33,25 @@ body {
 }
 
 a:link {
-    color: green; 
+    color: grey; 
     background-color: transparent; 
-    text-decoration: grey;
+    text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: grey;
     background-color: transparent;
-    text-decoration: grey;
+    text-decoration: none;
 }
 
 a:hover {
-    color: red;
+    color: black;
     background-color: transparent;
-    text-decoration: black;
+    text-decoration: bold;
 }
 
 a:active {
-    color: yellow;
+    color: grey;
     background-color: transparent;
-    text-decoration: grey;
+    text-decoration: none;
 }
