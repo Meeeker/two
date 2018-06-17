@@ -11,24 +11,24 @@ body {
 }
 
 #container {
-	width: 1200;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #navigation {
-  width: 150px;
+  width: 12%;
   float: left;
   background-color: white;
   text-shadow: 3px 2px #e0ebeb;
 }
   
 #text {
-  width: 900px;
+  width: 80%;
   float: right;
   background-color: white;
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-right: 1.5%;
+  padding-left: 1.5%;
   margin-bottom: 100px;
 }
 
