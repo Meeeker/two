@@ -55,4 +55,5 @@ a:active {
     color: grey;
     background-color: transparent;
     text-decoration: none;
+    font-weight: bold;
 }
